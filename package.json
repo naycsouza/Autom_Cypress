@@ -1,0 +1,14 @@
+{
+  "name": "recrutamento",
+  "version": "1.0.0",
+  "description": "Recrutamento OLX",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Nsouza",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
